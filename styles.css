@@ -23,4 +23,9 @@ body {
 
 .gottem-image {
   display: flex;
+  margin-right: 8px;
+}
+
+.gottem-image img {
+  height: 7em;
 }
