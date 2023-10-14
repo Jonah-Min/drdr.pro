@@ -2,6 +2,7 @@ body {
   background-image: url("rick roll.gif");
   background-size: cover;
   background-position: 0% 33%;
+  margin: 0;
 }
 
 #gottem {
