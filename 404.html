@@ -39,7 +39,7 @@
       var text = segments[segments.length-1];
       var el = document.getElementsByClassName('gottem-text')[0];
       el.textContent += ' ';
-      el.textContent += text;
+      el.textContent += decodeURIComponent(text);
     }
   </script>
 </body>
